@@ -1,0 +1,25 @@
+R_DEF: Internal format may change without notice
+local
+drawable cpot1
+drawable cpot2
+drawable cpot3
+drawable cup1
+drawable cup2
+drawable cup3
+drawable home1
+drawable home2
+drawable home3
+drawable lamp1
+drawable lamp2
+drawable lamp3
+drawable plate1
+drawable plate2
+drawable plate3
+drawable vase1
+drawable vase2
+drawable vase3
+drawable vase4
+drawable wpot1
+drawable wpot2
+drawable wpot3
+drawable wpot4

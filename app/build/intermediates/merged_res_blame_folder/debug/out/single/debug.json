@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "com.example.kumbarakala.app-merged_res-53:/drawable_cpot2.jpeg.flat",
+        "source": "com.example.kumbarakala.app-main-55:/drawable/cpot2.jpeg"
+    },
+    {
+        "merged": "com.example.kumbarakala.app-merged_res-53:/drawable_wpot4.jpeg.flat",
+        "source": "com.example.kumbarakala.app-main-55:/drawable/wpot4.jpeg"
+    },
+    {
+        "merged": "com.example.kumbarakala.app-merged_res-53:/drawable_vase4.jpeg.flat",
+        "source": "com.example.kumbarakala.app-main-55:/drawable/vase4.jpeg"
+    },
+    {
+        "merged": "com.example.kumbarakala.app-merged_res-53:/drawable_vase1.jpeg.flat",
+        "source": "com.example.kumbarakala.app-main-55:/drawable/vase1.jpeg"
+    },
+    {
+        "merged": "com.example.kumbarakala.app-merged_res-53:/drawable_home1.jpeg.flat",
+        "source": "com.example.kumbarakala.app-main-55:/drawable/home1.jpeg"
+    },
+    {
+        "merged": "com.example.kumbarakala.app-merged_res-53:/drawable_wpot2.jpeg.flat",
+        "source": "com.example.kumbarakala.app-main-55:/drawable/wpot2.jpeg"
+    },
+    {
+        "merged": "com.example.kumbarakala.app-merged_res-53:/drawable_home3.jpeg.flat",
+        "source": "com.example.kumbarakala.app-main-55:/drawable/home3.jpeg"
+    },
+    {
+        "merged": "com.example.kumbarakala.app-merged_res-53:/drawable_plate1.jpeg.flat",
+        "source": "com.example.kumbarakala.app-main-55:/drawable/plate1.jpeg"
+    },
+    {
+        "merged": "com.example.kumbarakala.app-merged_res-53:/drawable_lamp1.jpeg.flat",
+        "source": "com.example.kumbarakala.app-main-55:/drawable/lamp1.jpeg"
+    },
+    {
+        "merged": "com.example.kumbarakala.app-merged_res-53:/drawable_plate3.jpeg.flat",
+        "source": "com.example.kumbarakala.app-main-55:/drawable/plate3.jpeg"
+    },
+    {
+        "merged": "com.example.kumbarakala.app-merged_res-53:/drawable_lamp3.jpeg.flat",
+        "source": "com.example.kumbarakala.app-main-55:/drawable/lamp3.jpeg"
+    },
+    {
+        "merged": "com.example.kumbarakala.app-merged_res-53:/drawable_cup2.jpeg.flat",
+        "source": "com.example.kumbarakala.app-main-55:/drawable/cup2.jpeg"
+    },
+    {
+        "merged": "com.example.kumbarakala.app-merged_res-53:/drawable_cpot1.jpeg.flat",
+        "source": "com.example.kumbarakala.app-main-55:/drawable/cpot1.jpeg"
+    },
+    {
+        "merged": "com.example.kumbarakala.app-merged_res-53:/drawable_cpot3.jpeg.flat",
+        "source": "com.example.kumbarakala.app-main-55:/drawable/cpot3.jpeg"
+    },
+    {
+        "merged": "com.example.kumbarakala.app-merged_res-53:/drawable_vase3.jpeg.flat",
+        "source": "com.example.kumbarakala.app-main-55:/drawable/vase3.jpeg"
+    },
+    {
+        "merged": "com.example.kumbarakala.app-merged_res-53:/drawable_vase2.jpeg.flat",
+        "source": "com.example.kumbarakala.app-main-55:/drawable/vase2.jpeg"
+    },
+    {
+        "merged": "com.example.kumbarakala.app-merged_res-53:/drawable_home2.jpeg.flat",
+        "source": "com.example.kumbarakala.app-main-55:/drawable/home2.jpeg"
+    },
+    {
+        "merged": "com.example.kumbarakala.app-merged_res-53:/drawable_lamp2.jpeg.flat",
+        "source": "com.example.kumbarakala.app-main-55:/drawable/lamp2.jpeg"
+    },
+    {
+        "merged": "com.example.kumbarakala.app-merged_res-53:/drawable_wpot1.jpeg.flat",
+        "source": "com.example.kumbarakala.app-main-55:/drawable/wpot1.jpeg"
+    },
+    {
+        "merged": "com.example.kumbarakala.app-merged_res-53:/drawable_wpot3.jpeg.flat",
+        "source": "com.example.kumbarakala.app-main-55:/drawable/wpot3.jpeg"
+    },
+    {
+        "merged": "com.example.kumbarakala.app-merged_res-53:/drawable_cup1.jpeg.flat",
+        "source": "com.example.kumbarakala.app-main-55:/drawable/cup1.jpeg"
+    },
+    {
+        "merged": "com.example.kumbarakala.app-merged_res-53:/drawable_plate2.jpeg.flat",
+        "source": "com.example.kumbarakala.app-main-55:/drawable/plate2.jpeg"
+    },
+    {
+        "merged": "com.example.kumbarakala.app-merged_res-53:/drawable_cup3.jpeg.flat",
+        "source": "com.example.kumbarakala.app-main-55:/drawable/cup3.jpeg"
+    }
+]
